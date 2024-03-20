@@ -1,8 +1,11 @@
-git init
-git remote add origin git@github.com:vilihak/ryhma6-exercises.git
-git add .
-git commit -m "vilis commit"
-git push origin main
+## Making repo
+<br>git init</br>
+<br>git remote add origin git@github.com:vilihak/ryhma6-exercises</br>
+<br>git</br>
+<br>git add .</br>
+<br>git commit -m "vilis commit"</br>
+<br>git push origin main</br>
 
-git config pull.rebase false
+## Merging conflict resolved
+<br>git config pull.rebase false</br>
 
